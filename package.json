@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "luigi-mario": "0.0.1"
+    "luigi-mario": "braungoodson/luigi-mario"
   },
   "author": "",
   "license": "BSD-2-Clause"
